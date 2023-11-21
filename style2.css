@@ -1,0 +1,52 @@
+body { 
+  background-image: url(https://i.pinimg.com/564x/27/50/4d/27504d89de9c90a55efeb7788937f903.jpg);
+  font-family: bookman old style;
+  padding: 20px;
+  margin-bottom: 40px;
+} 
+
+h1 { 
+  font-family: bookman old style;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+h2 { 
+  font-family: bookman old style;
+  font-size: 29px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-left: 30px;
+}
+
+.list { 
+  width: 80%;
+  background-color: lightgrey;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20 px;
+  max-width: 500 px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: bookman old style; 
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+article {
+  padding-left: 30px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  padding-right: 30px;
+}
